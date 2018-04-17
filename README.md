@@ -1,0 +1,2 @@
+# THC
+TrustH Coin
